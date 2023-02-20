@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/assignNomflix/static/js/main.fc5b4d7d.js",
+    "index.html": "/assignNomflix/index.html",
+    "main.fc5b4d7d.js.map": "/assignNomflix/static/js/main.fc5b4d7d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fc5b4d7d.js"
+  ]
+}
